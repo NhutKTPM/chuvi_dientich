@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>hinh_tron_suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>00a5936a-222e-4b10-8aa8-81773742dfe0</testSuiteGuid>
+   <testCaseLink>
+      <guid>95197144-47d7-401c-ae0d-da5c6f2c2192</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/hinh_tron</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>453427a1-c13a-44e9-91e8-f52155af346e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/tron_data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>453427a1-c13a-44e9-91e8-f52155af346e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>r</value>
+         <variableId>2a2fbd5e-0639-45d7-95e2-706f1a234960</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>453427a1-c13a-44e9-91e8-f52155af346e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>me_cv</value>
+         <variableId>6d34c27a-c521-4bd1-93f0-84851ba9664e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>453427a1-c13a-44e9-91e8-f52155af346e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>me_dt</value>
+         <variableId>83cf5870-1158-4e01-9a13-1f33ba86648a</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

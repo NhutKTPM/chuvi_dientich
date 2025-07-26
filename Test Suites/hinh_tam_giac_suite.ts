@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>hinh_tam_giac_suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>aa894a8a-5e0c-4975-ace7-034f57c6e79b</testSuiteGuid>
+   <testCaseLink>
+      <guid>bd414dc0-1fea-46b2-aa2c-29c3322b797a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/hinh_tam_giac</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b5dcbee1-aabf-44ee-9618-a41ae35b9ec7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/tam_giac_data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>b5dcbee1-aabf-44ee-9618-a41ae35b9ec7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>a</value>
+         <variableId>b5209cc5-fa62-4368-af08-a53c0f33541c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b5dcbee1-aabf-44ee-9618-a41ae35b9ec7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>b</value>
+         <variableId>2796d900-1a39-4349-8976-9b262eceb67b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b5dcbee1-aabf-44ee-9618-a41ae35b9ec7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>c</value>
+         <variableId>b567c45c-bd11-4075-81fd-cafe335d9531</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b5dcbee1-aabf-44ee-9618-a41ae35b9ec7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>me_cv</value>
+         <variableId>95f1fea0-9cf9-41f0-9328-3f328bf1ddaa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b5dcbee1-aabf-44ee-9618-a41ae35b9ec7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>me_dt</value>
+         <variableId>bb683598-ba1a-4f1d-b142-5bff4f802f5d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b5dcbee1-aabf-44ee-9618-a41ae35b9ec7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tb</value>
+         <variableId>58c10749-2ce2-47b3-84c4-ef74f3c7aa6c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

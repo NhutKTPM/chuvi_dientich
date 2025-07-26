@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>hinh_vuong_suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>83dee70d-5201-4b57-944f-e2542d3596bd</testSuiteGuid>
+   <testCaseLink>
+      <guid>0891b6f0-2a91-43e6-b76e-e8e9d47d80c3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/hinh_vuong</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a3c251d1-e958-45ed-9e27-f2ecf6998ddc</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/vuong_data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>a3c251d1-e958-45ed-9e27-f2ecf6998ddc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>a</value>
+         <variableId>a1361af1-1d9e-4ab8-a991-48252323bb05</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a3c251d1-e958-45ed-9e27-f2ecf6998ddc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>me_cv</value>
+         <variableId>c07db91e-ba4c-4aa7-89aa-5e558e6a62e5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a3c251d1-e958-45ed-9e27-f2ecf6998ddc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>me_dt</value>
+         <variableId>977629bf-345c-4ccb-8de9-a3ffd9550745</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

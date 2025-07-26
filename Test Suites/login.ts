@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>login</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>e6d2d5b2-a4d0-4a38-96d7-ef328f6d991f</testSuiteGuid>
+   <testCaseLink>
+      <guid>5a24994e-047e-4db2-a515-01b7f17210a5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>fd6a1fc4-c6ee-422d-9fc9-05bbe4333701</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/login_data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>fd6a1fc4-c6ee-422d-9fc9-05bbe4333701</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>mk</value>
+         <variableId>594ad5a6-55a3-49cf-b66b-d74b4fa7edcf</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fd6a1fc4-c6ee-422d-9fc9-05bbe4333701</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tk</value>
+         <variableId>d7e50bf6-46b7-4624-930d-78f603986d63</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fd6a1fc4-c6ee-422d-9fc9-05bbe4333701</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>me</value>
+         <variableId>9bb8b97c-ca02-4af1-8ecd-e69a40ce8f02</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

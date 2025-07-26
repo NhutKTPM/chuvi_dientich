@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>hinh_chu_nhat_suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>5468db42-112e-4ead-bcee-e84085bf9103</testSuiteGuid>
+   <testCaseLink>
+      <guid>1f3c863d-e57e-4ad3-8706-13a8ca9baa88</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/hinh_chu_nhat</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c98ee14b-ff2c-4509-8f50-acb22210ca82</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/chu_nhat_data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>c98ee14b-ff2c-4509-8f50-acb22210ca82</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>d</value>
+         <variableId>e12e1ef3-6bb9-46f7-ba6e-ee2a49eb6345</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c98ee14b-ff2c-4509-8f50-acb22210ca82</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>r</value>
+         <variableId>9c8c101d-3838-4f33-a2d3-8ad35286b947</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c98ee14b-ff2c-4509-8f50-acb22210ca82</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>me_cv</value>
+         <variableId>2a295f84-9913-447b-a219-ecd25eedb1ff</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c98ee14b-ff2c-4509-8f50-acb22210ca82</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>me_dt</value>
+         <variableId>075762bf-01db-43f4-99f3-297b587dac2f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
